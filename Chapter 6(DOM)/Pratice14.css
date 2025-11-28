@@ -1,0 +1,14 @@
+.box
+{
+    height: 100px;
+    width: 100px;
+    border:1px solid black;
+    margin:5px;
+    background-color: rgb(11, 76, 91);
+    text-align: center;
+
+}
+h1
+{
+    color: rgb(11, 76, 91);
+}
