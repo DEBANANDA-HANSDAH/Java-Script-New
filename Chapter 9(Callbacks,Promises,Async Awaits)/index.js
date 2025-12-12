@@ -39,3 +39,21 @@ if(age>=18)
         console.log("child");
     }
 
+//for(let i=0;i<5;i++)
+{
+    let str="";
+    for(let j=0;j<5;j++)
+    {
+        str=str+j;
+        console.log(str);
+    }
+}
+
+function getData(dataId)
+{
+    setTimeout(()=>
+    {
+         console.log("data",dataId);
+    },5000);
+   
+}
