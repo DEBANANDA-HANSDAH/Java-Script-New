@@ -55,7 +55,7 @@ else
 {
     console.log("YOU CANNOT VOTE");
 }
-age>=18?
+age<=18?
 console.log("adult"):console.log("not adult");
 
 //theme color

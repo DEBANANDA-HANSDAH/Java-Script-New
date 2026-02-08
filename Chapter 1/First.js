@@ -1,10 +1,8 @@
-const student={
-    fullName:"Rahul Kumar",
+let student={
+    fullName:"Debananda",
     age:20,
-    cgpa:8.2,
+    cgpa:8.7,
     ispass:true,
 };
-
-student["age"]=student["age"]+1;
-
-console.log(student["cgpa"]);
+student["age"]=student["age"]+2;
+console.log(student.age);

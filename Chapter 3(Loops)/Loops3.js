@@ -5,4 +5,4 @@ do
     console.log("LOPAMUDRA",);
     i++;
 }
-while(i<=25)
+while(i<=95)
